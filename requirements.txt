@@ -1,5 +1,5 @@
 google-genai
-llama-cpp-python
+#llama-cpp-python
 pillow
 pypdf
 pytesseract
