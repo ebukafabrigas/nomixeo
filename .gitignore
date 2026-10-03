@@ -1,0 +1,18 @@
+# Local model weights
+/models/
+/*.gguf
+
+# Python virtual environments
+.venv/
+venv/
+env/
+
+# Python caches and test/tool output
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Local Streamlit secrets
+.streamlit/secrets.toml

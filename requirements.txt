@@ -1,0 +1,6 @@
+google-genai
+llama-cpp-python
+pillow
+pypdf
+pytesseract
+streamlit
